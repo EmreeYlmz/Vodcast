@@ -29,7 +29,14 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 | Home | Blog | Live |
 |------|------|------|
 | ![](./screenshots/home.png) | ![](./screenshots/blog.png) | ![](./screenshots/live.png) |
+### Home
+![Home](./screenshots/home.png)
 
+### Blog
+![Blog](./screenshots/blog.png)
+
+### Live
+![Live](./screenshots/live.png)
 ## 📦 Kurulum
 
 Projeyi klonla:
