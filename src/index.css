@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+    --color-background: #353A40;
+    /* sayfa arka planı */
+    --color-navbar: #000000;
+    /* navbar ve sidebar rengi */
+    --color-button: #058DD9;
+    /* buton rengi */
+    --color-card: #2D3136;
+    /* kart arka planı */
+    --color-text: #ffffff;
+    --color-backg1: #282C30;
+
+    --font-urbanist: 'Urbanist', sans-serif;
+}
