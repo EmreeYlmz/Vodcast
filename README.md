@@ -41,7 +41,11 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 ### Landing
 ![Landing](/screenshots/landing.png)
 
-
+<p align="center">
+  <img src="/screenshots/home.png" width="30%" />
+  <img src="/screenshots/blog.png" width="30%" />
+  <img src="/screenshots/live.png" width="30%" />
+</p>
 ## 📦 Kurulum
 
 Projeyi klonla:
