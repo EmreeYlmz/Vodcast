@@ -27,7 +27,7 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 ## 📸 Screenshots
 
 ### Home
-![Home](/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/home.png)
 
 ### Blog
 ![Blog](/screenshots/blog.png)
