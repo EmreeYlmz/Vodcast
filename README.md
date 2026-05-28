@@ -30,22 +30,18 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 ![Home](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/home.png)
 
 ### Blog
-![Blog](/screenshots/blog.png)
+![Blog](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/blog.png)
 
 ### Live
-![Live](/screenshots/live.png)
+![Live](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/live.png)
 
 ### Login
-![Login](/screenshots/login.png)
+![Login](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/login.png)
 
 ### Landing
-![Landing](/screenshots/landing.png)
+![Landing](https://raw.githubusercontent.com/EmreeYlmz/Vodcast/main/public/screenshots/landing.png)
 
-<p align="center">
-  <img src="/screenshots/home.png" width="30%" />
-  <img src="/screenshots/blog.png" width="30%" />
-  <img src="/screenshots/live.png" width="30%" />
-</p>
+
 ## 📦 Kurulum
 
 Projeyi klonla:
