@@ -26,21 +26,20 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 ---
 ## 📸 Screenshots
 
-| Home | Blog | Live |
-|------|------|------|
-| ![](./screenshots/home.png) | ![](./screenshots/blog.png) | ![](./screenshots/live.png) |
 ### Home
-![Home](./screenshots/home.png)
+![Home](/screenshots/home.png)
 
 ### Blog
-![Blog](./screenshots/blog.png)
+![Blog](/screenshots/blog.png)
 
 ### Live
-![Live](./screenshots/live.png)
-### login
-![login](./screenshots/login.png)
-### landing
-![landing](./screenshots/landing.png)
+![Live](/screenshots/live.png)
+
+### Login
+![Login](/screenshots/login.png)
+
+### Landing
+![Landing](/screenshots/landing.png)
 
 
 ## 📦 Kurulum
