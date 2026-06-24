@@ -20,7 +20,7 @@ VODCAST, React + Vite ile geliştirilmiş modern bir podcast, video içerik, can
 - React  
 - Vite  
 - JavaScript (ES6+)  
-- CSS / Tailwind (kullandıysan)  
+- CSS / Tailwind
 - Fake API / Mock Data  
 
 ---
